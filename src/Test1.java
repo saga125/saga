@@ -1,6 +1,6 @@
 
 public class Test1 {
-//sag
+//sa
 	public static void main(String[] args) {
 		String hungry = "yes";
 		
